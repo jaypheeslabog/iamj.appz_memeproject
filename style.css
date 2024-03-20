@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+
+img {
+    height: 40%;
+    width: 40%;
+    border: rgb(253, 253, 253) solid 5px;
+    margin-left: 30%;
+    margin-top: 2%;
+    
+}
+
+.caption {
+    font-family: "Libre Baskerville", serif;
+    color: aliceblue;
+    text-align: center;
+    text-transform: uppercase;
+  
+}
+
+h1 {
+    font-size: x-large;
+}
+h2 {
+    font-size: medium;
+
+}
